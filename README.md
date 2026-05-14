@@ -20,17 +20,23 @@ Follow these steps to set up the project locally:
 ### Step to Clone & Run
 
 1. Clone the repository:
-   `bash
-   https://github.com/Jesinth467/Portfolio`
+   ```bash
+   https://github.com/Jesinth467/Portfolio
+   ```
    
 2. Navigate to the Project Directory:
-   `bash
-   cd Portfolio`
+   ```bash
+   cd Portfolio
+   ```
 
 3. Install Dependencies:
- `bash
-   npm install`
+   ```bash
+   npm install
+   ```
 4. Run
- `bash
-npm run`
+   ```bash
+   npm run
+   ```
+
+
 
