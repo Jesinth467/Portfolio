@@ -2,7 +2,7 @@
 A modern developer-focused portfolio template built with HTML, CSS, and JavaScript. This template is fully customizable, responsive, and integrates Web3Forms for seamless form submission. Ideal for showcasing your projects, skills, and experience.
 
 ## Demo
-preview:[portfolio]()
+Preview : https://jesinth467.github.io/Portfolio/
 
 ## Features
 - Responsive Website Dsign
